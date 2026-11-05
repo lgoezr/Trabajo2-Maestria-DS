@@ -1,0 +1,13 @@
+# Datos (CSV grandes — no se suben a GitHub)
+*.csv
+orders_aug/
+
+# Windows / OneDrive
+desktop.ini
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
