@@ -1,10 +1,10 @@
 # Informe Trabajo 2
  
-**Curso:** Almacenamiento y Procesamiento de Grandes Datos
-**Profesor:** Edwin Montoya
-**Integrantes:** Lorena Goez Ruiz
-**Video (YouTube):** [enlace]
-**Región de AWS utilizada para el proyecto:** us-east-1 (N. Virginia)
+- **Curso:** Almacenamiento y Procesamiento de Grandes Datos
+- **Profesor:** Edwin Montoya
+- **Integrantes:** Lorena Goez Ruiz
+- **Video (YouTube):** https://youtu.be/XZgipkYtzxc
+- **Región de AWS utilizada para el proyecto:** us-east-1 (N. Virginia)
  
 > **Estado de la entrega (IMPORTANTE).**
 > - La parte B del trabajo fue realizada en su totalidad y ejecutada en AWS sin ningún problema. Sin embargo la parte A, se completó de manera parcial: se hizo el aumento de datos a más de 5.000.000 de registros y su carga en S3. Se intentó hhacer un script inicial para los jobs en Glue, pero NO se ejecutaron en AWS, porque al crear un job, la consola devuelve `AccessDeniedException: Account <ID> is denied access`, incluso con el usuario raíz y después de mejorar el plan de la cuenta. CloudShell muestra además: *"Your account verification is in progress. This may take up to two days for new accounts"*. Se abrió un caso con AWS Support y se informó al profesor. Por eso la máquina de estados, el horario y las consultas de las agrupaciones no se ejecutaron.
