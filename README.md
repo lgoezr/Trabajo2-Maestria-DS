@@ -1,10 +1,10 @@
 # Trabajo 2: pipeline batch y streaming en AWS
  
-**Curso:** Almacenamiento y Procesamiento de Grandes Datos, 2026 (Maestría en Ciencias de los Datos y Analítica, Universidad EAFIT)
-**Profesor:** Edwin Montoya
-**Integrante:** Lorena Goez Ruiz
-**Video:** https://youtu.be/XZgipkYtzxc
-**Informe completo (reproducibilidad):** [INFORME_final.md](INFORME_final.md)
+- **Curso:** Almacenamiento y Procesamiento de Grandes Datos, 2026 (Maestría en Ciencias de los Datos y Analítica, Universidad EAFIT)
+- **Profesor:** Edwin Montoya
+- **Integrante:** Lorena Goez Ruiz
+- **Video:** https://youtu.be/XZgipkYtzxc
+- **Informe completo (reproducibilidad):** [INFORME_final.md](INFORME_final.md)
  
 ## Estado
  
