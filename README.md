@@ -4,7 +4,6 @@
 - **Profesor:** Edwin Montoya
 - **Integrante:** Lorena Goez Ruiz
 - **Video:** https://youtu.be/XZgipkYtzxc
-- **Informe completo (reproducibilidad):** [INFORME_final.md](INFORME_final.md)
  
 ## Estado
  
