@@ -22,25 +22,6 @@ Todos los recursos se crearon manualmente en la consola de AWS (us-east-1), sin 
  
 Pregunta del proyecto: la categoría con mayor valor promedio por evento es **Electronics (256,93)**.
  
-## Estructura del repositorio
- 
-```
-.
-├── README.md
-├── INFORME_final.md
-├── parte_a_batch/
-│   ├── 01_aumentar_datos.py
-│   ├── glue_job1_limpieza_join.py
-│   ├── glue_job2_agg_categoria.py
-│   └── glue_job3_agg_pago.py
-├── parte_b_streaming/
-│   ├── lambda_ventanas.py
-│   ├── productor.py
-│   ├── verificar_conteos.py
-│   └── limpiar_tablas.py
-└── evidencias/
-```
- 
 ## Cómo reproducir la Parte B
  
 Requisitos: cuenta de AWS con plan de pago (Kinesis no está en el plan gratuito), Python 3.9+, `boto3` y AWS CLI configurada. No hay credenciales en este repositorio.
